@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello Everyone👋
+## I'm Randeep, a Computer Science student at UBC, currently seeking a co-op position to get hands on knowledge and gain valuable expeiriences to build on what I’ve been learning.
+
+- 🔭 I’m currently working on a (tbd)
+- 🌱 I’m currently learning on how to intigrate AI/ML into projects to have a meaningful impact
+- 👯 I’m looking to work with software industry professinals who provide guidence and rigorous activies to challenge me
+- 📫 Please reach me at my email [rsidhu33@student.ubc.ca](mailto:rsidhu33@student.ubc.ca) or my LinkedIn [rsidhu33](https://linkedin.com/in/rsidhu33)
+- ⚡ Fun fact: I have a strong interest in data-driven sports analytics, using statistical trends and performance metrics to make informed predictions on game outcomes
+
+
 
 <!--
 **randeepsidhu1/randeepsidhu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
