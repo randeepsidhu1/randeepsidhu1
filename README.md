@@ -1,4 +1,3 @@
-## Hello Everyone👋
 ## I'm Randeep, a Computer Science student at UBC, currently seeking a co-op position to get hands on knowledge and gain valuable expeiriences to build on what I’ve been learning.
 
 - 🔭 I’m currently working on a (tbd)
